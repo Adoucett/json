@@ -1,42 +1,537 @@
-{"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.24785,43.84855]},"properties":{"OID_":24,"ID":24,"Name":"Chamberlain Wind Project","Latitude":43.84855,"Longitude":-99.24785,"CapacityMW":3,"GEN_MWH_YR":3973.791529,"GEN_MW":0.45,"PCT_Capaci":"17%","PCT_Cap":0.15121,"Buffer_M":1022.5,"CAP_Score":15.121,"Score_2":74.4111,"Outlier_":"True_Low","CoType":"LH","Neighbors_":5,"URL_":"https://duckduckgo.com/?q=!ducky+Chamberlain+Wind+Project+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.32385507,42.71090651]},"properties":{"OID_":76,"ID":76,"Name":"Storm Lake 1","Latitude":42.71090651,"Longitude":-95.32385507,"CapacityMW":114,"GEN_MWH_YR":247966.523,"GEN_MW":28.31,"PCT_Capaci":"25%","PCT_Cap":0.248304,"Buffer_M":1855,"CAP_Score":24.8304,"Score_2":57.9801,"Outlier_":"True_Low","CoType":"LH","Neighbors_":64,"URL_":"https://duckduckgo.com/?q=!ducky+Storm+Lake+1+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.230025,35.4668425]},"properties":{"OID_":112,"ID":112,"Name":"Llano Estacado Wind Ranch","Latitude":35.4668425,"Longitude":-101.230025,"CapacityMW":80,"GEN_MWH_YR":226390.9091,"GEN_MW":25.84,"PCT_Capaci":"32%","PCT_Cap":0.323046,"Buffer_M":1600,"CAP_Score":32.3046,"Score_2":45.3317,"Outlier_":"True_Low","CoType":"LH","Neighbors_":48,"URL_":"https://duckduckgo.com/?q=!ducky+Llano+Estacado+Wind+Ranch+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.38286,37.61025353]},"properties":{"OID_":119,"ID":119,"Name":"Gray County Wind Energy","Latitude":37.61025353,"Longitude":-100.38286,"CapacityMW":112,"GEN_MWH_YR":232587.8824,"GEN_MW":26.55,"PCT_Capaci":"24%","PCT_Cap":0.237064,"Buffer_M":1840,"CAP_Score":23.7064,"Score_2":59.8822,"Outlier_":"True_Low","CoType":"LH","Neighbors_":24,"URL_":"https://duckduckgo.com/?q=!ducky+Gray+County+Wind+Energy+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.11395,44.0123]},"properties":{"OID_":133,"ID":133,"Name":"Kas Brothers Windfarm","Latitude":44.0123,"Longitude":-96.11395,"CapacityMW":2,"GEN_MWH_YR":3893.633381,"GEN_MW":0.44,"PCT_Capaci":"30%","PCT_Cap":0.222239,"Buffer_M":1015,"CAP_Score":22.2239,"Score_2":62.391,"Outlier_":"True_Low","CoType":"LH","Neighbors_":58,"URL_":"https://duckduckgo.com/?q=!ducky+Kas+Brothers+Windfarm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.2769,48.2117]},"properties":{"OID_":143,"ID":143,"Name":"Minot Wind Project","Latitude":48.2117,"Longitude":-101.2769,"CapacityMW":7,"GEN_MWH_YR":13532.71109,"GEN_MW":1.54,"PCT_Capaci":"22%","PCT_Cap":0.22069,"Buffer_M":1052.5,"CAP_Score":22.069,"Score_2":62.6532,"Outlier_":"True_Low","CoType":"LH","Neighbors_":15,"URL_":"https://duckduckgo.com/?q=!ducky+Minot+Wind+Project+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.30076177,36.58511029]},"properties":{"OID_":155,"ID":155,"Name":"Oklahoma Wind Energy Center","Latitude":36.58511029,"Longitude":-99.30076177,"CapacityMW":102,"GEN_MWH_YR":281453.4545,"GEN_MW":32.13,"PCT_Capaci":"31%","PCT_Cap":0.314994,"Buffer_M":1765,"CAP_Score":31.4994,"Score_2":46.6943,"Outlier_":"True_Low","CoType":"LH","Neighbors_":37,"URL_":"https://duckduckgo.com/?q=!ducky+Oklahoma+Wind+Energy+Center+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.200715,32.945005]},"properties":{"OID_":159,"ID":159,"Name":"Brazos Wind Farm","Latitude":32.945005,"Longitude":-101.200715,"CapacityMW":160,"GEN_MWH_YR":456836.7044,"GEN_MW":52.15,"PCT_Capaci":"33%","PCT_Cap":0.325939,"Buffer_M":2200,"CAP_Score":32.5939,"Score_2":44.8421,"Outlier_":"True_Low","CoType":"LH","Neighbors_":51,"URL_":"https://duckduckgo.com/?q=!ducky+Brazos+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.38955714,43.64575714]},"properties":{"OID_":161,"ID":161,"Name":"Minwind 3-9","Latitude":43.64575714,"Longitude":-96.38955714,"CapacityMW":12,"GEN_MWH_YR":31070.8428,"GEN_MW":3.55,"PCT_Capaci":"31%","PCT_Cap":0.295575,"Buffer_M":1090,"CAP_Score":29.5575,"Score_2":49.9805,"Outlier_":"True_Low","CoType":"LH","Neighbors_":63,"URL_":"https://duckduckgo.com/?q=!ducky+Minwind+3-9+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.04214211,44.01038947]},"properties":{"OID_":162,"ID":162,"Name":"Chanarambie Power Partners, LLC","Latitude":44.01038947,"Longitude":-96.04214211,"CapacityMW":86,"GEN_MWH_YR":246429.0858,"GEN_MW":28.13,"PCT_Capaci":"33%","PCT_Cap":0.327107,"Buffer_M":1645,"CAP_Score":32.7107,"Score_2":44.6445,"Outlier_":"True_Low","CoType":"LH","Neighbors_":58,"URL_":"https://duckduckgo.com/?q=!ducky+Chanarambie+Power+Partners,+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.2156,43.98665]},"properties":{"OID_":174,"ID":174,"Name":"Westridge Windfarm LLC","Latitude":43.98665,"Longitude":-96.2156,"CapacityMW":2,"GEN_MWH_YR":5505.669435,"GEN_MW":0.63,"PCT_Capaci":"33%","PCT_Cap":0.314251,"Buffer_M":1015,"CAP_Score":31.4251,"Score_2":46.82,"Outlier_":"True_Low","CoType":"LH","Neighbors_":58,"URL_":"https://duckduckgo.com/?q=!ducky+Westridge+Windfarm+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.41825,44.3979]},"properties":{"OID_":188,"ID":188,"Name":"NAE Shaokatan Power","Latitude":44.3979,"Longitude":-96.41825,"CapacityMW":2,"GEN_MWH_YR":691.3846154,"GEN_MW":0.08,"PCT_Capaci":"5%","PCT_Cap":0.0394626,"Buffer_M":1015,"CAP_Score":3.94626,"Score_2":93.3218,"Outlier_":"True_Low","CoType":"LH","Neighbors_":61,"URL_":"https://duckduckgo.com/?q=!ducky+NAE+Shaokatan+Power+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.3279,36.4727]},"properties":{"OID_":190,"ID":190,"Name":"Indian Mesa (Vestas)","Latitude":36.4727,"Longitude":-101.3279,"CapacityMW":3,"GEN_MWH_YR":2127.100941,"GEN_MW":0.24,"PCT_Capaci":"8%","PCT_Cap":0.0809399,"Buffer_M":1022.5,"CAP_Score":8.09399,"Score_2":86.3027,"Outlier_":"True_Low","CoType":"LH","Neighbors_":36,"URL_":"https://duckduckgo.com/?q=!ducky+Indian+Mesa+(Vestas)+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.3283,42.5539]},"properties":{"OID_":193,"ID":193,"Name":"Intrepid","Latitude":42.5539,"Longitude":-95.3283,"CapacityMW":176,"GEN_MWH_YR":499477.0782,"GEN_MW":57.02,"PCT_Capaci":"32%","PCT_Cap":0.323966,"Buffer_M":2320,"CAP_Score":32.3966,"Score_2":45.176,"Outlier_":"True_Low","CoType":"LH","Neighbors_":53,"URL_":"https://duckduckgo.com/?q=!ducky+Intrepid+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.6168825,36.64435625]},"properties":{"OID_":237,"ID":237,"Name":"Centennial Wind Farm","Latitude":36.64435625,"Longitude":-99.6168825,"CapacityMW":120,"GEN_MWH_YR":311748.8824,"GEN_MW":35.59,"PCT_Capaci":"30%","PCT_Cap":0.296565,"Buffer_M":1900,"CAP_Score":29.6565,"Score_2":49.813,"Outlier_":"True_Low","CoType":"LH","Neighbors_":35,"URL_":"https://duckduckgo.com/?q=!ducky+Centennial+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-96.4331,44.0208]},"properties":{"OID_":251,"ID":251,"Name":"Greenback Energy","Latitude":44.0208,"Longitude":-96.4331,"CapacityMW":2,"GEN_MWH_YR":5072.451966,"GEN_MW":0.58,"PCT_Capaci":"35%","PCT_Cap":0.289524,"Buffer_M":1015,"CAP_Score":28.9524,"Score_2":51.0045,"Outlier_":"True_Low","CoType":"LH","Neighbors_":58,"URL_":"https://duckduckgo.com/?q=!ducky+Greenback+Energy+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.9180375,43.9408125]},"properties":{"OID_":292,"ID":292,"Name":"Eastridge Wind Project","Latitude":43.9408125,"Longitude":-95.9180375,"CapacityMW":10,"GEN_MWH_YR":27793.97774,"GEN_MW":3.17,"PCT_Capaci":"32%","PCT_Cap":0.317283,"Buffer_M":1075,"CAP_Score":31.7283,"Score_2":46.3069,"Outlier_":"True_Low","CoType":"LH","Neighbors_":62,"URL_":"https://duckduckgo.com/?q=!ducky+Eastridge+Wind+Project+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8686,36.4455]},"properties":{"OID_":299,"ID":299,"Name":"EXC Wind 5 LLC","Latitude":36.4455,"Longitude":-101.8686,"CapacityMW":10,"GEN_MWH_YR":26839.49576,"GEN_MW":3.06,"PCT_Capaci":"31%","PCT_Cap":0.306387,"Buffer_M":1075,"CAP_Score":30.6387,"Score_2":48.1508,"Outlier_":"True_Low","CoType":"LH","Neighbors_":40,"URL_":"https://duckduckgo.com/?q=!ducky+EXC+Wind+5+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.7365048,32.73826667]},"properties":{"OID_":324,"ID":324,"Name":"Snyder Wind Farm","Latitude":32.73826667,"Longitude":-100.7365048,"CapacityMW":63,"GEN_MWH_YR":165195.9861,"GEN_MW":18.86,"PCT_Capaci":"30%","PCT_Cap":0.299333,"Buffer_M":1472.5,"CAP_Score":29.9333,"Score_2":49.3446,"Outlier_":"True_Low","CoType":"LH","Neighbors_":53,"URL_":"https://duckduckgo.com/?q=!ducky+Snyder+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-95.95386667,43.917]},"properties":{"OID_":353,"ID":353,"Name":"Chandler Hills Wind Farm","Latitude":43.917,"Longitude":-95.95386667,"CapacityMW":2,"GEN_MWH_YR":5489.078219,"GEN_MW":0.63,"PCT_Capaci":"32%","PCT_Cap":0.313304,"Buffer_M":1015,"CAP_Score":31.3304,"Score_2":46.9803,"Outlier_":"True_Low","CoType":"LH","Neighbors_":62,"URL_":"https://duckduckgo.com/?q=!ducky+Chandler+Hills+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-100.9039389,48.09422778]},"properties":{"OID_":365,"ID":365,"Name":"Velva Windfarm LLC","Latitude":48.09422778,"Longitude":-100.9039389,"CapacityMW":12,"GEN_MWH_YR":30666.2321,"GEN_MW":3.5,"PCT_Capaci":"29%","PCT_Cap":0.291726,"Buffer_M":1090,"CAP_Score":29.1726,"Score_2":50.6319,"Outlier_":"True_Low","CoType":"LH","Neighbors_":14,"URL_":"https://duckduckgo.com/?q=!ducky+Velva+Windfarm+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.1598303,38.51856364]},"properties":{"OID_":410,"ID":410,"Name":"Central Plains Wind Farm","Latitude":38.51856364,"Longitude":-101.1598303,"CapacityMW":99,"GEN_MWH_YR":281636.4706,"GEN_MW":32.15,"PCT_Capaci":"32%","PCT_Cap":0.32475,"Buffer_M":1742.5,"CAP_Score":32.475,"Score_2":45.0433,"Outlier_":"True_Low","CoType":"LH","Neighbors_":13,"URL_":"https://duckduckgo.com/?q=!ducky+Central+Plains+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-98.510338,37.3773765]},"properties":{"OID_":411,"ID":411,"Name":"Flat Ridge Wind Farm","Latitude":37.3773765,"Longitude":-98.510338,"CapacityMW":50,"GEN_MWH_YR":141255.1765,"GEN_MW":16.13,"PCT_Capaci":"32%","PCT_Cap":0.3225,"Buffer_M":1375,"CAP_Score":32.25,"Score_2":45.4241,"Outlier_":"True_Low","CoType":"LH","Neighbors_":28,"URL_":"https://duckduckgo.com/?q=!ducky+Flat+Ridge+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.535775,35.3460625]},"properties":{"OID_":420,"ID":420,"Name":"High Plains Wind Power LLC","Latitude":35.3460625,"Longitude":-101.535775,"CapacityMW":10,"GEN_MWH_YR":28417.77706,"GEN_MW":3.24,"PCT_Capaci":"32%","PCT_Cap":0.324404,"Buffer_M":1075,"CAP_Score":32.4404,"Score_2":45.1019,"Outlier_":"True_Low","CoType":"LH","Neighbors_":48,"URL_":"https://duckduckgo.com/?q=!ducky+High+Plains+Wind+Power+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.98185,35.8148875]},"properties":{"OID_":421,"ID":421,"Name":"EXC Wind 11 LLC","Latitude":35.8148875,"Longitude":-101.98185,"CapacityMW":10,"GEN_MWH_YR":26827.29635,"GEN_MW":3.06,"PCT_Capaci":"31%","PCT_Cap":0.306248,"Buffer_M":1075,"CAP_Score":30.6248,"Score_2":48.1744,"Outlier_":"True_Low","CoType":"LH","Neighbors_":45,"URL_":"https://duckduckgo.com/?q=!ducky+EXC+Wind+11+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8022625,35.9614]},"properties":{"OID_":422,"ID":422,"Name":"EXC Wind 10 LLC","Latitude":35.9614,"Longitude":-101.8022625,"CapacityMW":10,"GEN_MWH_YR":26631.80894,"GEN_MW":3.04,"PCT_Capaci":"30%","PCT_Cap":0.304016,"Buffer_M":1075,"CAP_Score":30.4016,"Score_2":48.5521,"Outlier_":"True_Low","CoType":"LH","Neighbors_":42,"URL_":"https://duckduckgo.com/?q=!ducky+EXC+Wind+10+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.8378,35.9637]},"properties":{"OID_":423,"ID":423,"Name":"EXC Wind 9 LLC","Latitude":35.9637,"Longitude":-101.8378,"CapacityMW":10,"GEN_MWH_YR":27663.72424,"GEN_MW":3.16,"PCT_Capaci":"32%","PCT_Cap":0.315796,"Buffer_M":1075,"CAP_Score":31.5796,"Score_2":46.5586,"Outlier_":"True_Low","CoType":"LH","Neighbors_":42,"URL_":"https://duckduckgo.com/?q=!ducky+EXC+Wind+9+LLC+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5803283,32.93194778]},"properties":{"OID_":464,"ID":464,"Name":"Bull Creek Wind","Latitude":32.93194778,"Longitude":-101.5803283,"CapacityMW":180,"GEN_MWH_YR":354317.071,"GEN_MW":40.45,"PCT_Capaci":"22%","PCT_Cap":0.224706,"Buffer_M":2350,"CAP_Score":22.4706,"Score_2":61.9735,"Outlier_":"True_Low","CoType":"LH","Neighbors_":47,"URL_":"https://duckduckgo.com/?q=!ducky+Bull+Creek+Wind+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.532919,46.9807]},"properties":{"OID_":489,"ID":489,"Name":"Bison I Wind Energy Center","Latitude":46.9807,"Longitude":-101.532919,"CapacityMW":82,"GEN_MWH_YR":234992.9289,"GEN_MW":26.83,"PCT_Capaci":"33%","PCT_Cap":0.327142,"Buffer_M":1615,"CAP_Score":32.7142,"Score_2":44.6385,"Outlier_":"True_Low","CoType":"LH","Neighbors_":14,"URL_":"https://duckduckgo.com/?q=!ducky+Bison+I+Wind+Energy+Center+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.739,35.1697]},"properties":{"OID_":510,"ID":510,"Name":"Mesalands Comm College Wind Turbine","Latitude":35.1697,"Longitude":-103.739,"CapacityMW":2,"GEN_MWH_YR":2858.476279,"GEN_MW":0.33,"PCT_Capaci":"22%","PCT_Cap":0.163155,"Buffer_M":1015,"CAP_Score":16.3155,"Score_2":72.3897,"Outlier_":"True_Low","CoType":"LH","Neighbors_":21,"URL_":"https://duckduckgo.com/?q=!ducky+Mesalands+Comm+College+Wind+Turbine+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.7681,46.24453077]},"properties":{"OID_":536,"ID":536,"Name":"Cedar Hills","Latitude":46.24453077,"Longitude":-103.7681,"CapacityMW":20,"GEN_MWH_YR":54852.41561,"GEN_MW":6.26,"PCT_Capaci":"32%","PCT_Cap":0.313085,"Buffer_M":1150,"CAP_Score":31.3085,"Score_2":47.0174,"Outlier_":"True_Low","CoType":"LH","Neighbors_":3,"URL_":"https://duckduckgo.com/?q=!ducky+Cedar+Hills+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.0562667,34.35836667]},"properties":{"OID_":562,"ID":562,"Name":"Texico Wind Ranch LP","Latitude":34.35836667,"Longitude":-103.0562667,"CapacityMW":2,"GEN_MWH_YR":4686.112363,"GEN_MW":0.53,"PCT_Capaci":"27%","PCT_Cap":0.267472,"Buffer_M":1015,"CAP_Score":26.7472,"Score_2":54.7363,"Outlier_":"True_Low","CoType":"LH","Neighbors_":21,"URL_":"https://duckduckgo.com/?q=!ducky+Texico+Wind+Ranch+LP+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.7621,33.5693]},"properties":{"OID_":563,"ID":563,"Name":"Lubbock Wind Ranch","Latitude":33.5693,"Longitude":-101.7621,"CapacityMW":8,"GEN_MWH_YR":12323.65835,"GEN_MW":1.41,"PCT_Capaci":"19%","PCT_Cap":0.175851,"Buffer_M":1060,"CAP_Score":17.5851,"Score_2":70.2411,"Outlier_":"True_Low","CoType":"LH","Neighbors_":30,"URL_":"https://duckduckgo.com/?q=!ducky+Lubbock+Wind+Ranch+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.53832,35.9468]},"properties":{"OID_":567,"ID":567,"Name":"Little Pringle I Wind Farm","Latitude":35.9468,"Longitude":-101.53832,"CapacityMW":10,"GEN_MWH_YR":18508.95459,"GEN_MW":2.11,"PCT_Capaci":"21%","PCT_Cap":0.211289,"Buffer_M":1075,"CAP_Score":21.1289,"Score_2":64.2441,"Outlier_":"True_Low","CoType":"LH","Neighbors_":41,"URL_":"https://duckduckgo.com/?q=!ducky+Little+Pringle+I+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.53536,35.91858]},"properties":{"OID_":568,"ID":568,"Name":"Little Pringle II Wind Farm","Latitude":35.91858,"Longitude":-101.53536,"CapacityMW":10,"GEN_MWH_YR":19135.68106,"GEN_MW":2.18,"PCT_Capaci":"22%","PCT_Cap":0.218444,"Buffer_M":1075,"CAP_Score":21.8444,"Score_2":63.0332,"Outlier_":"True_Low","CoType":"LH","Neighbors_":42,"URL_":"https://duckduckgo.com/?q=!ducky+Little+Pringle+II+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.38582,33.6613]},"properties":{"OID_":633,"ID":633,"Name":"Ralls Wind Farm","Latitude":33.6613,"Longitude":-101.38582,"CapacityMW":10,"GEN_MWH_YR":24916.33518,"GEN_MW":2.84,"PCT_Capaci":"28%","PCT_Cap":0.284433,"Buffer_M":1075,"CAP_Score":28.4433,"Score_2":51.8661,"Outlier_":"True_Low","CoType":"LH","Neighbors_":30,"URL_":"https://duckduckgo.com/?q=!ducky+Ralls+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.5645023,46.95051914]},"properties":{"OID_":703,"ID":703,"Name":"Bison 2 Wind Energy Center","Latitude":46.95051914,"Longitude":-101.5645023,"CapacityMW":105,"GEN_MWH_YR":299829.1536,"GEN_MW":34.23,"PCT_Capaci":"33%","PCT_Cap":0.325972,"Buffer_M":1787.5,"CAP_Score":32.5972,"Score_2":44.8365,"Outlier_":"True_Low","CoType":"LH","Neighbors_":14,"URL_":"https://duckduckgo.com/?q=!ducky+Bison+2+Wind+Energy+Center+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.237233,34.432267]},"properties":{"OID_":824,"ID":827,"Name":"Briscoe Wind Farm","Latitude":34.432267,"Longitude":-101.237233,"CapacityMW":150,"GEN_MWH_YR":411877.0887,"GEN_MW":47.02,"PCT_Capaci":"31%","PCT_Cap":0.313453,"Buffer_M":2125,"CAP_Score":31.3453,"Score_2":46.9551,"Outlier_":"True_Low","CoType":"LH","Neighbors_":30,"URL_":"https://duckduckgo.com/?q=!ducky+Briscoe+Wind+Farm+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-99.532944,33.645964]},"properties":{"OID_":825,"ID":828,"Name":"Green Pastures Wind II","Latitude":33.645964,"Longitude":-99.532944,"CapacityMW":150,"GEN_MWH_YR":291664.8188,"GEN_MW":33.3,"PCT_Capaci":"22%","PCT_Cap":0.221967,"Buffer_M":2125,"CAP_Score":22.1967,"Score_2":62.437,"Outlier_":"True_Low","CoType":"LH","Neighbors_":20,"URL_":"https://duckduckgo.com/?q=!ducky+Green+Pastures+Wind+II+Wind+Farm"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.1216689,34.75115871]},"properties":{"OID_":976,"ID":1770,"Name":"Broadview Energy KW, LLC","Latitude":34.75115871,"Longitude":-103.1216689,"CapacityMW":143,"GEN_MWH_YR":404057.6259,"GEN_MW":46.13,"PCT_Capaci":"32%","PCT_Cap":0.322555,"Buffer_M":2072.5,"CAP_Score":32.2555,"Score_2":45.4148,"Outlier_":"True_Low","CoType":"LH","Neighbors_":20,"URL_":"https://duckduckgo.com/?q=!ducky+Broadview+Energy+KW,+LLC+Wind+Farm"}}
-]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7311,
+          46.89515
+        ]
+      },
+      "properties": {
+        "ID": 15,
+        "Name": "Moorhead Wind Turbine",
+        "Latitude": 46.89515,
+        "Longitude": -96.7311,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.24785,
+          43.84855
+        ]
+      },
+      "properties": {
+        "ID": 24,
+        "Name": "Chamberlain Wind Project",
+        "Latitude": 43.84855,
+        "Longitude": -99.24785,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7098113,
+          33.91442264
+        ]
+      },
+      "properties": {
+        "ID": 43,
+        "Name": "Cabazon Wind Farm",
+        "Latitude": 33.91442264,
+        "Longitude": -116.7098113,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4494,
+          32.2853
+        ]
+      },
+      "properties": {
+        "ID": 81,
+        "Name": "Big Spring Wind Power Facility",
+        "Latitude": 32.2853,
+        "Longitude": -101.4494,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31383365,
+          42.51869813
+        ]
+      },
+      "properties": {
+        "ID": 86,
+        "Name": "Storm Lake II",
+        "Latitude": 42.51869813,
+        "Longitude": -95.31383365,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.129836,
+          31.094786
+        ]
+      },
+      "properties": {
+        "ID": 90,
+        "Name": "West Texas Wind Energy LLC",
+        "Latitude": 31.094786,
+        "Longitude": -102.129836,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0673125,
+          39.8508625
+        ]
+      },
+      "properties": {
+        "ID": 92,
+        "Name": "Green Mountain Wind Farm",
+        "Latitude": 39.8508625,
+        "Longitude": -79.0673125,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7519,
+          31.6414
+        ]
+      },
+      "properties": {
+        "ID": 94,
+        "Name": "Delaware Mountain Windfarm",
+        "Latitude": 31.6414,
+        "Longitude": -104.7519,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.99015,
+          31.7155
+        ]
+      },
+      "properties": {
+        "ID": 111,
+        "Name": "Hueco Mountain Wind Ranch",
+        "Latitude": 31.7155,
+        "Longitude": -105.99015,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73995,
+          45.7618
+        ]
+      },
+      "properties": {
+        "ID": 136,
+        "Name": "Bay Windpower I",
+        "Latitude": 45.7618,
+        "Longitude": -84.73995,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2769,
+          48.2117
+        ]
+      },
+      "properties": {
+        "ID": 143,
+        "Name": "Minot Wind Project",
+        "Latitude": 48.2117,
+        "Longitude": -101.2769,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.41825,
+          44.3979
+        ]
+      },
+      "properties": {
+        "ID": 188,
+        "Name": "NAE Shaokatan Power",
+        "Latitude": 44.3979,
+        "Longitude": -96.41825,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3279,
+          36.4727
+        ]
+      },
+      "properties": {
+        "ID": 190,
+        "Name": "Indian Mesa (Vestas)",
+        "Latitude": 36.4727,
+        "Longitude": -101.3279,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.19395,
+          35.25597
+        ]
+      },
+      "properties": {
+        "ID": 302,
+        "Name": "Terra-Gen VG Wind LLC",
+        "Latitude": 35.25597,
+        "Longitude": -118.19395,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5803283,
+          32.93194778
+        ]
+      },
+      "properties": {
+        "ID": 464,
+        "Name": "Bull Creek Wind",
+        "Latitude": 32.93194778,
+        "Longitude": -101.5803283,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.739,
+          35.1697
+        ]
+      },
+      "properties": {
+        "ID": 510,
+        "Name": "Mesalands Comm College Wind Turbine",
+        "Latitude": 35.1697,
+        "Longitude": -103.739,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7621,
+          33.5693
+        ]
+      },
+      "properties": {
+        "ID": 563,
+        "Name": "Lubbock Wind Ranch",
+        "Latitude": 33.5693,
+        "Longitude": -101.7621,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0419167,
+          21.60847333
+        ]
+      },
+      "properties": {
+        "ID": 643,
+        "Name": "Kawailoa Wind",
+        "Latitude": 21.60847333,
+        "Longitude": -158.0419167,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.924722,
+          44.1125
+        ]
+      },
+      "properties": {
+        "ID": 645,
+        "Name": "Winona County Wind LLC",
+        "Latitude": 44.1125,
+        "Longitude": -91.924722,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3564,
+          37.6167
+        ]
+      },
+      "properties": {
+        "ID": 656,
+        "Name": "Teichert Materials-Teichert Vernalis",
+        "Latitude": 37.6167,
+        "Longitude": -121.3564,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5214,
+          37.71385
+        ]
+      },
+      "properties": {
+        "ID": 662,
+        "Name": "Foundation ST",
+        "Latitude": 37.71385,
+        "Longitude": -121.5214,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6214,
+          38.1634
+        ]
+      },
+      "properties": {
+        "ID": 669,
+        "Name": "Vestas Towers America, Inc.",
+        "Latitude": 38.1634,
+        "Longitude": -104.6214,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.968,
+          42.88665
+        ]
+      },
+      "properties": {
+        "ID": 671,
+        "Name": "Zotos International WPGF",
+        "Latitude": 42.88665,
+        "Longitude": -76.968,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3056,
+          41.664
+        ]
+      },
+      "properties": {
+        "ID": 673,
+        "Name": "Town of Falmouth WWTP",
+        "Latitude": 41.664,
+        "Longitude": -70.3056,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5264,
+          34.0849
+        ]
+      },
+      "properties": {
+        "ID": 702,
+        "Name": "Foundation IE",
+        "Latitude": 34.0849,
+        "Longitude": -117.5264,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.30655,
+          34.56105
+        ]
+      },
+      "properties": {
+        "ID": 771,
+        "Name": "Foundation Cemex River Plant",
+        "Latitude": 34.56105,
+        "Longitude": -117.30655,
+        "Outlier_": "yes",
+        "CoType": "LL",
+        "Neighbors_": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1939,
+          40.1112
+        ]
+      },
+      "properties": {
+        "ID": 775,
+        "Name": "Foundation Wal-Mart Red Bluff",
+        "Latitude": 40.1112,
+        "Longitude": -122.1939,
+        "Outlier_": "yes",
+        "CoType": "",
+        "Neighbors_": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.532944,
+          33.645964
+        ]
+      },
+      "properties": {
+        "ID": 828,
+        "Name": "Green Pastures Wind II",
+        "Latitude": 33.645964,
+        "Longitude": -99.532944,
+        "Outlier_": "yes",
+        "CoType": "LH",
+        "Neighbors_": 20
+      }
+    }
+  ]
+}
